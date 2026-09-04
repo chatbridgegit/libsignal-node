@@ -1,21 +1,68 @@
-MIT License
+# ChatUnity License
 
-Copyright (c) 2025 Cyhper 
+Copyright (c) 2026 ChatUnity. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## 1. Definitions
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1.1 “Software” means the source code, object code, documentation, and related materials provided under this license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1.2 “You” means the individual or legal entity exercising rights under this license.
+
+1.3 “Commercial Use” means any use of the Software that is intended for or directed toward commercial advantage or monetary compensation, including but not limited to SaaS offerings, paid integrations, and enterprise deployments.
+
+## 2. License Grant
+
+2.1 Subject to the terms of this license, ChatUnity grants You a non-exclusive, worldwide, non-transferable, revocable license to use, study, and modify the Software solely for non-commercial, personal, research, and educational purposes.
+
+2.2 You may not sublicense, distribute, or make the Software available to third parties, except as expressly permitted in Section 3.
+
+## 3. Limited Redistribution for Non-Commercial Projects
+
+3.1 You may redistribute unmodified copies of the Software in source or object form for non-commercial, personal, research, or educational purposes, provided that:
+
+(a) You retain this license text, all copyright notices, and any disclaimers in all copies;  
+(b) You do not present the Software as your own original work;  
+(c) You do not charge any fee for the Software itself; and  
+(d) You clearly indicate that the Software is provided under the ChatUnity License.
+
+3.2 Modified versions of the Software may not be redistributed in any form without prior written permission from ChatUnity.
+
+## 4. Commercial Use
+
+4.1 Commercial Use of the Software is not permitted under this license.
+
+4.2 If You wish to use the Software for Commercial Use, You must obtain a separate commercial license from ChatUnity. Contact ChatUnity for licensing terms and conditions.
+
+## 5. No Warranty
+
+5.1 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+5.2 IN NO EVENT SHALL CHATUNITY BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## 6. Termination
+
+6.1 This license is effective until terminated. Your rights under this license will terminate automatically without notice if You fail to comply with any term of this license.
+
+6.2 Upon termination, You must cease all use of the Software and, if applicable, destroy all copies of the Software in Your possession or control.
+
+## 7. Governing Law
+
+7.1 This license shall be governed by and construed in accordance with the laws of Italy, without regard to its conflict of laws principles.
+
+7.2 Any dispute arising out of or in connection with this license shall be subject to the exclusive jurisdiction of the courts of Rome, Italy, unless mandatory local law provides otherwise.
+
+## 8. Additional Terms for Security-Sensitive Components
+
+8.1 The Software includes cryptographic and security-sensitive components. You must not remove, disable, or circumvent any security checks, validation logic, or integrity mechanisms present in the Software.
+
+8.2 You must not use the Software in a manner that violates applicable laws, regulations, or third-party terms of service, including but not limited to messaging platform policies, anti-spam laws, and data-protection regulations.
+
+8.3 You are solely responsible for ensuring that Your use of the Software complies with all applicable legal and regulatory requirements in Your jurisdiction.
+
+## 9. Contact
+
+For questions about this license, commercial licensing, or permissions beyond the scope of this license, contact ChatUnity.
+
+---
+
+ChatUnity License — version 1.0 (2026)
